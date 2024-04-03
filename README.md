@@ -1,6 +1,8 @@
 # DSC530-Topic-2-Part-1-Time-Series-Exploring-and-Understanding
  An assignment for DSC530 at GCU that focused on choosing and preparing a dataset for time-series analysis.
 
+ Check out the full report [here.](https://github.com/jhould007/DSC530-Topic-2-Part-1-Time-Series-Exploring-and-Understanding/blob/main/Part%201%20Time%20Series%20Exploring%20and%20Understanding.ipynb)
+
 # Assignment Instructions
 Each machine learning algorithm expects data as input that needs to be formatted in a very specific way, so time series datasets generally require some cleaning and feature engineering processes before they can generate useful insights. Since time series data has a temporal feature, only some of the statistical methodologies are appropriate for time series data.
 For this activity, in 500-750 words, answer the following:
